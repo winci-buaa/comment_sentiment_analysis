@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 14 10:29:36 2018
 
-@author: haota
-"""
 import numpy as np
 
 # from dataset import word_vectors # 从数据集引入词向量
