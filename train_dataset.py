@@ -35,7 +35,7 @@ print('评论平均词长度',lengh)
 #matplotlib.use('qt4agg')
 
 
-# 将文本生成一个索引矩阵，并且得到25000 x 300 的矩阵
+# 将文本生成一个索引矩阵
 import re
 strip_special_chars = re.compile('[^A-Za-z0-9 ]+')
 def cleanSentences(string):
